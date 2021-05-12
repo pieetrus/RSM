@@ -1,0 +1,15 @@
+file, number of cities, selection type, runs, average time, best time, average distance, best distance, optimal distance
+tsp10.atsp, 10, TOURNAMENT, 10, 1094, 1083, 576, 576, 212
+br17.atsp, 17, TOURNAMENT, 10, 1243, 1212, 39, 39, 39
+ftv33.atsp, 34, TOURNAMENT, 10, 1569, 1546, 1724, 1590, 1286
+ftv38.atsp, 39, TOURNAMENT, 10, 1731, 1680, 2057, 1825, 1530
+ft53.atsp, 53, TOURNAMENT, 10, 2369, 2247, 10319, 9351, 6905
+ftv55.atsp, 56, TOURNAMENT, 10, 2370, 2303, 2440, 2231, 1608
+ftv47.atsp, 48, TOURNAMENT, 10, 2057, 1985, 2539, 2282, 1776
+ftv64.atsp, 65, TOURNAMENT, 10, 2738, 2685, 2965, 2724, 1839
+ft70.atsp, 70, TOURNAMENT, 10, 2984, 2901, 45532, 44244, 38673
+ftv70.atsp, 71, TOURNAMENT, 10, 3025, 2980, 3260, 3056, 1950
+ftv170.atsp, 171, TOURNAMENT, 10, 10697, 10521, 7197, 6678, 2755
+kro124p.atsp, 100, TOURNAMENT, 10, 4789, 4550, 60577, 51812, 36230
+
+ 
